@@ -1,6 +1,6 @@
 <h1 style="text-align:center; padding-bottom: 0; color: #3366ff">Michael Maggs</h1>
 
-|<michaelmaggs@gmail.com>|image|[![GitHub](./images/github_logo.png)]("https://github.com/SeattleSlough")|[![GitLab](./images/gitlab-logo.png)]("https://github.com/SeattleSlough")|(206) 883-9044|
+|<michaelmaggs@gmail.com>|[LinkedIn](https://www.linkedin.com/in/michaeljmaggs)|[GitHub]("https://github.com/SeattleSlough")|[GitLab]("https://github.com/SeattleSlough")|(206) 883-9044|
 |:---- | --- | ---| --- | ---:|
 <!--
 <table style="width: 100%; padding-top: 0">
@@ -104,5 +104,53 @@
         <tr>
         <td>2008 - 2010</td>
         <td><b>Director Product Marketing (Windows 7),</b> Microsoft</td>
+    </tr>
+</table>
+
+<h2 style="padding-top: 0">Certifications</h2>
+<table>
+    <tr>
+        <td>Pursuing</td>
+        <td><b>Certified Kubernetes Administrator,</b> KodeKloud</td>
+    </tr>
+    <tr>
+        <td>Pursuing</td>
+        <td><b>Certified Kubernetes Application Developer,</b> KodeKloud</td>
+    </tr>
+    <tr>
+        <td>Pursuing</td>
+        <td><b>AWS Solutions Architect Associate,</b> Whizlabs</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td><b>AWS & DevOps Engineer Bootcamp,</b> Clarusway Credential ID 92085980732062</td>
+    </tr>
+    <tr>
+        <td>2020</td>
+        <td><b>Critical Thinking,</b> LinkedIn Credential ID #140940</td>
+    </tr>
+    <tr>
+        <td>2019</td>
+        <td><b>Full Stack Software Development Bootamp,</b> Flatiron School</td>
+    </tr>
+</table>
+<h2 style="padding-top: 0">Awards & Patents</h2>
+<table>
+    <tr>
+        <td>August 2008</td>
+        <td><b>Partner of the Year,</b> IP Licensing (Microsoft), Legal and Corporate Affairs (LCA)</td>
+    </tr>
+    <tr>
+        <td>Dec 2006</td>
+        <td><b>Communication Link Generation In A Cloud,</b> US 11613676</td>
+    </tr>
+    <tr>
+        <td>Sept 2006</td>
+        <td><b>Resilient Communication Between Clients Comprising A Cloud,</b> US 11/536,497</td>
+    </tr>
+</table>
+<h2 style="padding-top: 0">Education</h2>
+    <tr>
+        <td><b>Bachelor of Arts, English Literature,</b> University of California at Berkeley</td>
     </tr>
 </table>
