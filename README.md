@@ -1,6 +1,6 @@
 <h1 style="text-align:center; padding-bottom: 0; color: #3366ff">Michael Maggs</h1>
 
-|<michaelmaggs@gmail.com>|image|[![GitHub](./images/github_logo.png)]("https://github.com/SeattleSlough")|image|(206) 883-9044|
+|<michaelmaggs@gmail.com>|image|[![GitHub](./images/github_logo.png)]("https://github.com/SeattleSlough")|[![GitLab](./images/gitlab-logo.png)]("https://github.com/SeattleSlough")|(206) 883-9044|
 |:---- | --- | ---| --- | ---:|
 <!--
 <table style="width: 100%; padding-top: 0">
