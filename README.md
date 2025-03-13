@@ -55,7 +55,7 @@
 <table>
     <tr>
         <td><b>Skills:</b></td>
-        <td>AWS EC2, ECR, EKS, Terraform, Docker, Kubernetes, Helm Charts, Ansible, Maven, Nexus, and Prometheus.</td>
+        <td>AWS EC2, ECR, EKS, Terraform, Docker, Kubernetes, Helm Charts, Ansible, Maven, and Prometheus.</td>
     </tr>
 </table>
 
