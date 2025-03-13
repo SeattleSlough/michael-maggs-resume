@@ -2,7 +2,7 @@
 
 <table style="width: 100%; padding-top: 0">
     <tr>
-        <td style="text-align:left; font-size:13.5px; width: 25%; border: 0px white">michaelmaggs@gmail.com</td>
+        <td style="text-align:left; font-size:13.5px; width: 25%; border: 0px white"><a href=mailto:michaelmaggs@gmail.com">michaelmaggs@gmail.com</a></td>
         <td style="width: 7%; border: 0px white">image</td>
         <td style="width: 7%; border: 0px white">image</td>
         <td style="width:10%; border: 0px white">image</td>
@@ -65,7 +65,7 @@
 - Built a Lambda-based application triggered by S3 events running in a private VPC backed by EC2, Auto Scaling Groups (ASG), ELB, ALB, CloudFront, Rte 53, and ACM Cert.
 - Designed Jenkins pipeline to deploy and manage Java microservices staged across development, test, production environments utilizing Terraform, Ansible, Docker, Kubernetes, Helm Charts, Maven, Nexus, Prometheus, EC2, ECR, and EKS.
 
-<h2 style="padding-top: 0">Engineering Experience</h2>
+<h2 style="padding-top: 0">Leadership Experience</h2>
 
 **Director of Product Management and Business Development** with over a decade of experience growing business, increasing market share, and accelerating revenue for software and cloud service companies.  Functional  expertise in developing clear goals, translating business objectives into technical requirements, and optimizing customer learning. Excels at developing and directing strategic initiatives, creative problem solving, and critical thinking.
 
