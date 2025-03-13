@@ -10,7 +10,7 @@
     </tr>
 </table style="padding-bottom: 0">
 
-<h3 style="padding-top: 0">Experience</h3>
+<h3 style="padding-top: 0">Engineering Experience</h3>
 <table>
     <tr>
         <td>October 2024 - Present                </td>
@@ -23,3 +23,9 @@
         <td>AWS Microservices, GitLab CI/CD, Terraform, Kubernetes, Docker, and Kanban</td>
     </tr>
 </table>
+
+- Automating an end-to-end GitLab Pipeline deploying a multi-tiered React app to a multi-node Kubernetes K3 cluster running on EC2 instances.
+- Building GitLab pipelines with a script automatically tagging custom Docker images by version and pushing to ECR.
+- Developing a Kubernetes manifest including Deployment, Service (including Ingress), ConfigMap and Secret configurations that are automatically deployed to a K3s cluster via a kubectl script.
+- Architecting custom Terraform designed to generate a multi-node K3s cluster as part of an automated pipeline and leverage GitLab’s remote backend state to ensure uniformity of the deployment.
+- Tracking productivity and issues using GitLab’s native Kanban board.
