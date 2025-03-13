@@ -65,7 +65,41 @@
 - Built a Lambda-based application triggered by S3 events running in a private VPC backed by EC2, Auto Scaling Groups (ASG), ELB, ALB, CloudFront, Rte 53, and ACM Cert.
 - Designed Jenkins pipeline to deploy and manage Java microservices staged across development, test, production environments utilizing Terraform, Ansible, Docker, Kubernetes, Helm Charts, Maven, Nexus, Prometheus, EC2, ECR, and EKS.
 
-<h2 style="padding-top: 0">Leadership Experience</h2>
+<h2 style="padding-top: 0">Engineering Experience</h2>
 
 **Director of Product Management and Business Development** with over a decade of experience growing business, increasing market share, and accelerating revenue for software and cloud service companies.  Functional  expertise in developing clear goals, translating business objectives into technical requirements, and optimizing customer learning. Excels at developing and directing strategic initiatives, creative problem solving, and critical thinking.
--
+
+- Founded and operated Partner Go-To-Market (GTM) consultancy.
+- Directed the product marketing for Azure, Windows 8, and Windows 7 during 10 years at Microsoft.
+- Former member of a collaborative Product Marketing Professional Network.
+<table>
+    <tr>
+        <td>2017 - 2023</td>
+        <td><b>Partner Go-To-Market (GTM) Consultant,</b> Triforma Consulting</td>
+    </tr>
+        <tr>
+        <td>2021 - 2021</td>
+        <td><b>Alliances Executive,</b> Highspot, Inc</td>
+    </tr>
+        <tr>
+        <td>2016 - 2017</td>
+        <td><b>Director of Business Developement,</b> SkyKick</td>
+    </tr>
+        <tr>
+        <td>2012 - 2014</td>
+        <td><b>Product Marketing Manager (Windows 8),</b> Microsoft</td>
+    </tr>
+        <tr>
+        <td>2010 - 2011</td>
+        <td><b>Director of Business Development,</b> Apptio</td>
+    </tr>
+        <tr>
+        <td>2008 - 2010</td>
+        <td><b>Director Product Marketing (Azure),</b> Microsoft</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>2008 - 2010</td>
+        <td><b>Director Product Marketing (Windows 7),</b> Microsoft</td>
+    </tr>
+</table>
