@@ -17,3 +17,9 @@
         <td><b>DevOps Engineer</b>, Nioyatech Internship</td>
     </tr>
 </table>
+<table>
+    <tr>
+        <td><b>Skills:</b></td>
+        <td>AWS Microservices, GitLab CI/CD, Terraform, Kubernetes, Docker, and Kanban</td>
+    </tr>
+</table>
