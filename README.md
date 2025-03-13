@@ -14,7 +14,7 @@
 <table>
     <tr>
         <td>October 2024 - Present                </td>
-        <td><b>DevOps Engineer</b>, Nioyatech Internship</td>
+        <td><b>DevOps Engineer,</b> Nioyatech Internship</td>
     </tr>
 </table>
 <table>
@@ -29,3 +29,22 @@
 - Developing a Kubernetes manifest including Deployment, Service (including Ingress), ConfigMap and Secret configurations that are automatically deployed to a K3s cluster via a kubectl script.
 - Architecting custom Terraform designed to generate a multi-node K3s cluster as part of an automated pipeline and leverage GitLab’s remote backend state to ensure uniformity of the deployment.
 - Tracking productivity and issues using GitLab’s native Kanban board.
+---
+<table>
+    <tr>
+        <td>October 2023 - August 2024                </td>
+        <td><b>AWS Solutions Architect & DevOps Engineer,</b> Clarusway Bootcamp</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td><b>Skills:</b></td>
+        <td>AWS EC2, ECR, EKS, Terraform, Docker, Kubernetes, Helm Charts, Ansible, Maven, Nexus, and Prometheus.</td>
+    </tr>
+</table>
+
+- Developed Terraform designed to deploy a Kubernetes cluster for a Django python application backed by MySQL and running on AWS EC2 instances behind an ALB allowing 80 and 443 traffic.
+- Implemented a MySQL RDS database allowing 3306 traffic from a dedicated EC2 security group.
+- Automated deployments to pull from a GitHub with a user data bash script and an EC2 launch template.
+- Built a Lambda-based application triggered by S3 events running in a private VPC backed by EC2, Auto Scaling Groups (ASG), ELB, ALB, CloudFront, Rte 53, and ACM Cert.
+- Designed Jenkins pipeline to deploy and manage Java microservices staged across development, test, production environments utilizing Terraform, Ansible, Docker, Kubernetes, Helm Charts, Maven, Nexus, Prometheus, EC2, ECR, and EKS.
