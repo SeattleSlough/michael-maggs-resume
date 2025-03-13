@@ -1,5 +1,8 @@
 <h1 style="text-align:center; padding-bottom: 0; color: #3366ff">Michael Maggs</h1>
 
+|<michaelmaggs@gmail.com>|image|[![GitHub](./images/github_logo.png)]("https://github.com/SeattleSlough")|image|(206) 883-9044|
+|:---- | --- | ---| --- | ---:|
+<!--
 <table style="width: 100%; padding-top: 0">
     <tr>
         <td style="text-align:left; font-size:13.5px; width: 25%; border: 0px white"><a href=mailto:michaelmaggs@gmail.com">michaelmaggs@gmail.com</a></td>
@@ -8,7 +11,7 @@
         <td style="width:10%; border: 0px white">image</td>
         <td style="text-align: right;font-size: 13px; width 450%; border: 0px white">(206) 883-9044</td>
     </tr>
-</table style="padding-bottom: 0">
+</table style="padding-bottom: 0"> -->
 
 **Kubernetes DevOps Engineer** focused on building highly available (HA), scalable, and reliable AWS architecture with containerization platforms and end-to-end automated pipelines.  Proven track record of delivering high impact results and building trust through data driven decisions and effective collaboration and communication with stakeholders, executive leadership, and enterprise customers.  Pragmatic problem solver and lifelong learner with a unique ability to transform ambiguity and complexity into simple and logical solutions integration.
 
