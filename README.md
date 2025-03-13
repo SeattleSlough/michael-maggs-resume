@@ -10,7 +10,7 @@
     </tr>
 </table style="padding-bottom: 0">
 
-<h3 style="padding-top: 0">Engineering Experience</h3>
+<h2 style="padding-top: 0">Engineering Experience</h2>
 <table>
     <tr>
         <td>October 2024 - Present                </td>
