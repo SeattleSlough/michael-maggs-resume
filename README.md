@@ -1,6 +1,6 @@
 <h1 style="text-align:center; padding-bottom: 0; color: #3366ff">Michael Maggs</h1>
 
-|<michaelmaggs@gmail.com>|[LinkedIn](https://www.linkedin.com/in/michaeljmaggs)|[GitHub]("https://github.com/SeattleSlough")|[GitLab]("https://github.com/SeattleSlough")|(206) 883-9044|
+|<michaelmaggs@gmail.com>|[LinkedIn](https://www.linkedin.com/in/michaeljmaggs)|[GitHub](https://github.com/SeattleSlough)|[GitLab](https://gitlab.com/infinitelyloopy-dev)|(206) 883-9044|
 |:---- | --- | ---| --- | ---:|
 <!--
 <table style="width: 100%; padding-top: 0">
