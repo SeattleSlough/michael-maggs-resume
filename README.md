@@ -13,8 +13,7 @@
 <h3 style="padding-top: 0">Experience</h3>
 <table>
     <tr>
-        <td><b>Nioyatech</b></td>
-        <td><em>DevOps Engineer</em><td>
-        <td>October 2024 - Present</td>
+        <td>October 2024 - Present                </td>
+        <td><b>DevOps Engineer</b>, Nioyatech Internship</td>
     </tr>
 </table>
