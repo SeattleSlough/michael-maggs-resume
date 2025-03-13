@@ -10,6 +10,22 @@
     </tr>
 </table style="padding-bottom: 0">
 
+**Kubernetes DevOps Engineer** focused on building highly available (HA), scalable, and reliable AWS architecture with containerization platforms and end-to-end automated pipelines.  Proven track record of delivering high impact results and building trust through data driven decisions and effective collaboration and communication with stakeholders, executive leadership, and enterprise customers.  Pragmatic problem solver and lifelong learner with a unique ability to transform ambiguity and complexity into simple and logical solutions integration.
+
+<table>
+    <tr>
+        <td><b>AWS: </b>Microservices, API Gateway, IAM, EC2, ECR, ECS, EKS, Lambda, SNS, SQS, and AWS CLI.</td>
+    </tr>
+    <tr>
+        <td><b>Containerization: </b>Docker, Kubernetes, and Helm Charts.</td>
+    </tr>
+        <td><b>Automation: </b>CI/CD, GitLab Pipelines, Jenkins, IAC, Terraform, Linux, Bash scripts, Python, and Git.</td>
+    </tr>
+    <tr>
+        <td><b>Leadership: </b>Stakeholder Partnerships, Critical Thinking, Pattern Recognition, and Problem Solving.</td>
+    </tr>
+</table>
+
 <h2 style="padding-top: 0">Engineering Experience</h2>
 <table>
     <tr>
