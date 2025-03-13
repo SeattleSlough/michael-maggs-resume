@@ -1,4 +1,4 @@
-<h1 style="text-align:center; padding-bottom: 0">Michael Maggs</h1>
+<h1 style="text-align:center; padding-bottom: 0; color: #3366ff">Michael Maggs</h1>
 
 <table style="width: 100%; padding-top: 0">
     <tr>
